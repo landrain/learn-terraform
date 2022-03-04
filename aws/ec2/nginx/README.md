@@ -1,10 +1,3 @@
-# Terraform
-
-    Just push a commit/PR to this repository and then atlantis will do the rest.
-    
-    Plan  : atlantis plan
-    Apply : atlantis apply
-
 # Install Nginx
  
 ```
